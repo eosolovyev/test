@@ -1,0 +1,2 @@
+second file text
+add text for 1st commit in new branch
